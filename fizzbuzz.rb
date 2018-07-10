@@ -7,3 +7,5 @@ def fizzbuzz(int)
     return "buzz"
   end
 end
+
+ puts fizzbuzz(45)
